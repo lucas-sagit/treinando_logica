@@ -1,0 +1,27 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: wheat;
+    font-size: 1rem;
+    color: rgb(3, 3, 3);
+    text-align: center;
+    padding: 15px;
+}
+
+.detail{
+    background-color: chocolate;
+    text-align: center;
+    padding: 70px;
+    box-shadow: 5px 5px 5px; 
+    border-radius: 15px;
+}
+
+.information{
+    padding: 30px;
+}
+
+button{
+    background-color: rgb(50, 205, 159);
+    padding: 15px;
+    border-radius: 25px;
+    box-shadow: 4px 3px 5px;
+}
